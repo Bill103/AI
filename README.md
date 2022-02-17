@@ -1,5 +1,5 @@
 # AI
  Facial Emotion Recognition Project 
 
- It may work it may dont ¯\_(ツ)_/¯
+ It may work it may not ;)
 
